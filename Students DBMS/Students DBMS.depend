@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1511897429 source:f:\documents\progrmming\students dbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874335 f:\documents\progrmming\students dbms\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1511897517 f:\documents\progrmming\students dbms\add.h
+	<stdio.h>
+
+1511886630 f:\documents\progrmming\students dbms\view.h
+
+1511889007 f:\documents\progrmming\students dbms\search.h
+
+1511918982 f:\documents\progrmming\students dbms\edit.h
+
+1511921828 source:j:\students dbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 j:\students dbms\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1511920462 j:\students dbms\add.h
+	<stdio.h>
+
+1511922126 j:\students dbms\view.h
+
+1511921010 j:\students dbms\search.h
+
+1511922214 j:\students dbms\edit.h
+
+1511921828 source:g:\students dbms 1607096\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 g:\students dbms 1607096\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1511920462 g:\students dbms 1607096\add.h
+	<stdio.h>
+
+1511922126 g:\students dbms 1607096\view.h
+
+1511921010 g:\students dbms 1607096\search.h
+
+1511931434 g:\students dbms 1607096\edit.h
+
+1512130157 source:f:\documents\progrmming\students dbms 1607096\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 f:\documents\progrmming\students dbms 1607096\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1512127359 f:\documents\progrmming\students dbms 1607096\add.h
+	<stdio.h>
+
+1512122227 f:\documents\progrmming\students dbms 1607096\view.h
+
+1512122893 f:\documents\progrmming\students dbms 1607096\search.h
+
+1512130157 f:\documents\progrmming\students dbms 1607096\edit.h
+
+1512130734 source:d:\study\project\students dbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mainheader.h"
+
+1511874336 d:\study\project\students dbms\mainheader.h
+	"add.h"
+	"view.h"
+	"search.h"
+	"edit.h"
+
+1512127360 d:\study\project\students dbms\add.h
+	<stdio.h>
+
+1512122228 d:\study\project\students dbms\view.h
+
+1512122894 d:\study\project\students dbms\search.h
+
+1512130158 d:\study\project\students dbms\edit.h
+
